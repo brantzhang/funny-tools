@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Seay\Seay\bin\Debug\Seay.exe
+C:\Users\Administrator\Desktop\Seay\Seay\bin\Debug\Seay.pdb
+C:\Users\Administrator\Desktop\Seay\Seay\obj\Debug\Seay.Form1.resources
+C:\Users\Administrator\Desktop\Seay\Seay\obj\Debug\Seay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Seay\Seay\obj\Debug\Seay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Seay\Seay\obj\Debug\Seay.exe
+C:\Users\Administrator\Desktop\Seay\Seay\obj\Debug\Seay.pdb
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\obj\Debug\Seay.exe
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\obj\Debug\Seay.pdb
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\obj\Debug\Seay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\obj\Debug\Seay.Form1.resources
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\obj\Debug\Seay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\obj\Debug\Seay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\bin\Debug\Seay.exe
+C:\Users\Administrator\Desktop\刷票软件测试\Seay\bin\Debug\Seay.pdb
